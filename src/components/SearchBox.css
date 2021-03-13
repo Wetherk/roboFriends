@@ -1,0 +1,12 @@
+.search_box {
+  padding: 20px;
+  font-family: "Potta One", cursive;
+  letter-spacing: 1px;
+  border: 4px solid #3a8cf8;
+  border-radius: 10px;
+  transition: 0.3s all;
+}
+.search_box:focus {
+  outline: none;
+  background-color: #c0dbff;
+}
